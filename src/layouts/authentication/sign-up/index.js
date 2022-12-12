@@ -48,7 +48,7 @@ function Cover() {
           textAlign="center"
         >
           <MDTypography variant="h4" fontWeight="medium" color="white" mt={1}>
-            Join us today
+            Join Services Qatar
           </MDTypography>
           <MDTypography display="block" variant="button" color="white" my={1}>
             Enter your email and password to register
@@ -57,7 +57,7 @@ function Cover() {
         <MDBox pt={4} pb={3} px={3}>
           <MDBox component="form" role="form">
             <MDBox mb={2}>
-              <MDInput type="text" label="Name" variant="standard" fullWidth />
+              <MDInput type="text" label="Username" variant="standard" fullWidth />
             </MDBox>
             <MDBox mb={2}>
               <MDInput type="email" label="Email" variant="standard" fullWidth />

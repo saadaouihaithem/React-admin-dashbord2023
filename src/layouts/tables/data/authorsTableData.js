@@ -50,10 +50,10 @@ export default function data() {
 
   return {
     columns: [
-      { Header: "author", accessor: "author", width: "45%", align: "left" },
-      { Header: "function", accessor: "function", align: "left" },
-      { Header: "status", accessor: "status", align: "center" },
-      { Header: "employed", accessor: "employed", align: "center" },
+      { Header: "Username", accessor: "author", width: "45%", align: "left" },
+      { Header: "email", accessor: "function", align: "left" },
+      { Header: "created", accessor: "employed", align: "center" },
+      { Header: "enable", accessor: "status", align: "center" },
       { Header: "action", accessor: "action", align: "center" },
     ],
 
